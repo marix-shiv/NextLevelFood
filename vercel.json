@@ -4,9 +4,6 @@
     ],
     "env": {
       "DATABASE_URL": "meals.db"
-    },
-    "files": [
-      "meals.db"
-    ]
+    }
   }
   
