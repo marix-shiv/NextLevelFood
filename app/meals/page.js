@@ -4,6 +4,13 @@ import MealsGrid from "@/components/meals/meals-gris";
 import { getMeals } from "@/lib/meals";
 import { Suspense } from "react";
 
+
+export const metadata = {
+  title: "Meals page",
+  description: "Browse the delicious meals, shared by our vibrant community.",
+};
+
+
 async function Meals() {
   const meals = await getMeals();
   
