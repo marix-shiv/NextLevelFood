@@ -75,9 +75,6 @@ The homepage provides an overview of various meals available on the platform.
 ![Meal Detail](public/images/meal-detail.jpeg)
 Detailed view of a selected meal, including nutritional information and ingredients.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
